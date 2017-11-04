@@ -35,6 +35,7 @@
         MBXExample3DExtrusions,
         MBXExampleLight,
         MBXExampleFillPattern,
+        MBXExampleMapSnapshotter,
         MBXExampleOfflinePack,
         MBXExamplePointConversion,
         MBXExamplePointHotspot,
